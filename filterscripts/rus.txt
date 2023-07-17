@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\LSVN\pawno\include\YSI\y_amx.inc(264) : ïðåäóïðåæäåíèå: ðåêóðñèÿ â AMX_GetGlobal
+Äëÿ îòêëþ÷åíèÿ âûâîäà ðåêóðñèé: #pragma disablerecursion
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Ïðåäóïðåæäåíèé:1.

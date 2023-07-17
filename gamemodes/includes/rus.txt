@@ -1,0 +1,35 @@
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(15495) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(50826) : ïðåäóïðåæäåíèå 208: ôóíêöèÿ ñ òèïîâûì ðåçóëüòàòîì èñïîëüçóåòñÿ ïåðåä îáúÿâëåíèåì, èíèöèèðîâàíà ïåðåîáðàáîòêà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(14) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYERS"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(14) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1142) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1316) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1332) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1343) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1355) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1366) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1377) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1389) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1503) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1587) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1641) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(1780) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2108) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2386) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_PLAYER_NAME"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2465) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2610) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2639) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2688) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "WEAPON_BRASSKNUCKLE"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2698) : îøèáêà 010: íåâåðíàÿ ôóíêöèÿ èëè îáúÿâëåíèå
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2710) : îøèáêà 070: ïîääåðæêà ðàöèîíàëüíûõ ÷èñåë íå âêëþ÷åíà
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2933) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_VEHICLES"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2933) : îøèáêà 009: íåâåðíûé ðàçìåð ìàññèâà (îòðèöàòåëüíûé/íóëåâîé ðàçìåð èëè âûõîä çà ïðåäåëû ìàññèâà)
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2934) : îøèáêà 017: íåîáúÿâëåííûé ñèìâîë "MAX_VEHICLES"
+C:\Users\Administrator\Desktop\LSVN\gamemodes\includes\Gta.pwn(2934) : îøèáêà 008: äîëæíî áûòü ïîñòîÿííûì âûðàæåíèåì; ïðèíÿò íîëü
+
+Êîìïèëÿöèÿ îñòàíîâëåíà.
+
+Pawn compiler 3.2.3664	 	 	Copyright (c) 1997-2016, ITB CompuPhase
+
+
+Îøèáîê:26.
